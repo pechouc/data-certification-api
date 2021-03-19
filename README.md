@@ -1,3 +1,6 @@
+# URL of Prediction API
+
+https://data-certification-ubkzofvvoq-ew.a.run.app
 
 # Data certification API
 
